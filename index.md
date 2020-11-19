@@ -21,7 +21,16 @@ We plan to ship our features incrementally. This is our roadmap for the project.
 - Mobile UI
 - ***Maybe more ?***  
 
-## Our Team
+# Mockup Plan
+![](./assets/mockup-login.png)
+![](./assets/mockup-survey.png)
+![](./assets/mockup-home.png)
+![](./assets/mockup-guide.png)
+![](./assets/mockup-guide-dev.png)
+![](./assets/mockup-edit-profile.png)
+![](./assets/mockup-about-contact.png)
+
+# Our Team
 - Akbar Maulana Alfatih ([@MosQyy](https://www.github.com/MosQyy) / 1313619003)
 - Farhan Dewanta Syahputra ([@Supiraru](https://www.github.com/Supiraru) / 1313619017)
 - Mochammad Hanif Ramadhan ([@etrnal70](https://www.github.com/etrnal70) / 1313619025)
